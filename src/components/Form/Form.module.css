@@ -1,0 +1,26 @@
+.containerForm{
+  display: flex;
+  flex-direction: column;
+  /* width: 400px; */
+  align-items: center;
+  justify-content: center;
+  margin-top: 350px;
+}
+
+.containerUser,.containerPassword{
+  display: flex;
+  justify-content: space-between;
+  width: 350px;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.buttonForm{
+  margin: 20px;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.buttonForm:hover{
+  transition: 1.4s;
+}

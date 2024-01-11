@@ -1,0 +1,22 @@
+.containerNavBar{
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  align-items: center;
+  flex-direction: row;
+}
+.containerButton{
+  background-color: #80BCBD;
+  padding: 5px 10px;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: black;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: .5s;
+}
+.containerButton:hover{
+  transform: scale(1.2);
+  background-color: #F6F7C4;
+}

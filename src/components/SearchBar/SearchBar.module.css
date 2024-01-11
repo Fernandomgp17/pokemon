@@ -1,0 +1,10 @@
+.containerSearchBar{
+  display: flex;
+  flex-direction: row;
+}
+
+.buttonSearchBar{
+  font-size: 20px;
+  color: black;
+  text-transform: uppercase;
+}

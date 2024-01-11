@@ -1,0 +1,9 @@
+.containerHome{
+  display: flex;
+  flex-direction: column;
+}
+
+.containerNav{
+  display: flex;
+  justify-content: space-around;
+}

@@ -1,0 +1,29 @@
+.containerAbout{
+  display: flex;
+  flex-direction: column;
+  padding: 100px;
+  margin: auto;
+  align-items: center;
+}
+
+.containerAbout h1{
+  position: absolute;
+}
+
+.imageAbout{
+  width: 800px;
+  height: 500px;
+  border-radius: 40px;
+}
+
+.titleAbout{
+  width: 800px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: -100px;
+}
+
+.titleAbout p{
+  font-size: 25px;
+}
+
